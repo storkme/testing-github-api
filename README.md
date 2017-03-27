@@ -1,3 +1,3 @@
 # testing-github-api
 
-stuff
+stuff 1.0.0
